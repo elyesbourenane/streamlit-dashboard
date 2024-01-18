@@ -2,6 +2,10 @@
 
 This dashboard is designed to provide insights into a dataset using Streamlit, Plotly, and Pandas. The code reads a dataset from an Excel file, filters the data based on user inputs for date range, region, state, and city, and then visualizes the data using various Plotly charts. Additionally, the dashboard allows users to download filtered and original data as CSV files.
 
+## Video Demonstration
+
+Explore a guided walkthrough of the dashboard by watching the "Program Demonstration" video available in the repository. The video provides a step-by-step overview of the dashboard's features and functionalities, helping you get started quickly.
+
 ## Instructions:
 
 1. **Installation:**
